@@ -29,7 +29,7 @@ Make sure you have the following technologies installed. Without these the API w
 
 ## Usage
 
-Follow my tutorial video or read the code to understand the different routes.
+Follow my [tutorial video](https://drive.google.com/file/d/1dMv1aR3tKpivX2ccHFhMI_HAmXwI5_7D/view?usp=sharing) or read the code to understand the different routes.
 All routes begin with: “http://localhost:3001/api/<fill>”, in the “<fill>” add the route that you would like to call. If you would like to see all users then “http://localhost:3001/api/users”, if you would like to see the thoughts posted by all users then “http://localhost:3001/api/thoughts/”, if you would like to see the thought of a particular user add the particular users id “http://localhost:3001/api/thoughts/644ff71110cdb8bed2ffcbc9”.
 
 ## License
